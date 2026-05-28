@@ -34,4 +34,6 @@ CIFAR-10 dataset containing 60,000 images across 10 classes.
 
 ## Team Members
 - Mehakpreet Kaur
-- Team details...
+- Yashika Sharma
+- Raj Fatehveer Singh Brar
+- Savree Dohar
